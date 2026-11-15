@@ -1,8 +1,8 @@
-package;
+package clicker;
 
 import flixel.FlxState;
 
-class PlayState extends FlxState
+class ClickerState extends FlxState
 {
 	override public function create()
 	{
